@@ -1,0 +1,4690 @@
+(['E:\\Project\\py\\statement_generator\\main.py'],
+ ['E:\\Project\\py\\statement_generator'],
+ [],
+ [('C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_pyinstaller',
+   0),
+  ('C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\playwright\\_impl\\__pyinstaller',
+   0),
+  ('C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pygame\\__pyinstaller',
+   0),
+  ('C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\qt_material',
+   0),
+  ('C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
+   -1000),
+  ('C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib',
+   -1000)],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [('yonder_logo.png',
+   'E:\\Project\\py\\statement_generator\\yonder_logo.png',
+   'DATA')],
+ '3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('main', 'E:\\Project\\Py\\statement_generator\\main.py', 'PYSOURCE')],
+ [('_pyi_rth_utils.qt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\struct.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.canvas',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\canvas.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.acroform',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\acroform.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pdfimages',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\pdfimages.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfutils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\pdfutils.py',
+   'PYMODULE'),
+  ('reportlab.lib.pdfencrypt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\pdfencrypt.py',
+   'PYMODULE'),
+  ('reportlab.lib.arciv',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\arciv.py',
+   'PYMODULE'),
+  ('reportlab.platypus.flowables',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\flowables.py',
+   'PYMODULE'),
+  ('reportlab.lib.sequencer',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\sequencer.py',
+   'PYMODULE'),
+  ('reportlab.platypus.frames',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\frames.py',
+   'PYMODULE'),
+  ('reportlab.platypus.paragraph',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\paragraph.py',
+   'PYMODULE'),
+  ('reportlab.lib.units',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\units.py',
+   'PYMODULE'),
+  ('reportlab.lib.textsplit',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\textsplit.py',
+   'PYMODULE'),
+  ('reportlab.lib.geomutils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\geomutils.py',
+   'PYMODULE'),
+  ('reportlab.platypus.paraparser',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\paraparser.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.rl_codecs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\rl_codecs.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('reportlab.lib.fonts',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\fonts.py',
+   'PYMODULE'),
+  ('reportlab.platypus.doctemplate',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\doctemplate.py',
+   'PYMODULE'),
+  ('reportlab.lib.randomtext',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\randomtext.py',
+   'PYMODULE'),
+  ('reportlab.lib.rl_safe_eval',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\rl_safe_eval.py',
+   'PYMODULE'),
+  ('reportlab.platypus',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.platypus.xpreformatted',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\xpreformatted.py',
+   'PYMODULE'),
+  ('reportlab.lib.PyFontify',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\PyFontify.py',
+   'PYMODULE'),
+  ('reportlab.platypus.tables',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\tables.py',
+   'PYMODULE'),
+  ('reportlab.lib.validators',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\validators.py',
+   'PYMODULE'),
+  ('reportlab.lib.normalDate',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\normalDate.py',
+   'PYMODULE'),
+  ('reportlab.graphics.shapes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\shapes.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderSVG',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderSVG.py',
+   'PYMODULE'),
+  ('reportlab.lib.corp',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\corp.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgetbase',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgetbase.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.piecharts',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\piecharts.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.utils3d',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\utils3d.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.textlabels',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\textlabels.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\utils.py',
+   'PYMODULE'),
+  ('reportlab.graphics.utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\utils.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.legends',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\legends.py',
+   'PYMODULE'),
+  ('reportlab.graphics.charts.areas',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\charts\\areas.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets.markers',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgets\\markers.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgets\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets.flags',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgets\\flags.py',
+   'PYMODULE'),
+  ('reportlab.graphics.widgets.signsandsymbols',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\widgets\\signsandsymbols.py',
+   'PYMODULE'),
+  ('reportlab.lib.formatters',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\formatters.py',
+   'PYMODULE'),
+  ('reportlab.graphics.testshapes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\testshapes.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderbase',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderbase.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderPS',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderPS.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderPM',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderPM.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fileinput.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('reportlab.graphics.renderPDF',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\renderPDF.py',
+   'PYMODULE'),
+  ('reportlab.graphics',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.graphics.transform',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\graphics\\transform.py',
+   'PYMODULE'),
+  ('reportlab.lib.attrmap',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\attrmap.py',
+   'PYMODULE'),
+  ('reportlab.lib.logger',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\logger.py',
+   'PYMODULE'),
+  ('reportlab.platypus.multicol',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\platypus\\multicol.py',
+   'PYMODULE'),
+  ('reportlab.lib.styles',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\styles.py',
+   'PYMODULE'),
+  ('reportlab.lib.enums',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\enums.py',
+   'PYMODULE'),
+  ('reportlab.lib.boxstuff',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\boxstuff.py',
+   'PYMODULE'),
+  ('reportlab.lib.rl_accel',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\rl_accel.py',
+   'PYMODULE'),
+  ('reportlab.lib.abag',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\abag.py',
+   'PYMODULE'),
+  ('reportlab.lib.utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\utils.py',
+   'PYMODULE'),
+  ('reportlab.rl_settings',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\rl_settings.py',
+   'PYMODULE'),
+  ('reportlab.lib.rltempfile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\rltempfile.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.textobject',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\textobject.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pathobject',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\pathobject.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pdfgeom',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\pdfgeom.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.ttfonts',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\ttfonts.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfmetrics',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\pdfmetrics.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._glyphlist',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_glyphlist.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_zapfdingbats',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_zapfdingbats.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_symbol',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_symbol.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesbolditalic',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesbolditalic.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesitalic',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesitalic.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesbold',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesbold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesroman',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesroman.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticaboldoblique',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticaboldoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticaoblique',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticaoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticabold',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticabold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helvetica',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helvetica.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courierboldoblique',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courierboldoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courieroblique',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courieroblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courierbold',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courierbold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courier',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courier.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_macexpert',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_macexpert.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_pdfdoc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_pdfdoc.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_zapfdingbats',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_zapfdingbats.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_symbol',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_symbol.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_standard',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_standard.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_macroman',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_macroman.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_winansi',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_winansi.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfdoc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\pdfdoc.py',
+   'PYMODULE'),
+  ('reportlab.lib.rparsexml',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\rparsexml.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfbase\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.rl_config',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\rl_config.py',
+   'PYMODULE'),
+  ('reportlab.lib.pagesizes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\pagesizes.py',
+   'PYMODULE'),
+  ('reportlab',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\pdfgen\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.lib.colors',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\colors.py',
+   'PYMODULE'),
+  ('reportlab.lib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\reportlab\\lib\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('pypdf',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\__init__.py',
+   'PYMODULE'),
+  ('pypdf.papersizes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\papersizes.py',
+   'PYMODULE'),
+  ('pypdf.pagerange',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\pagerange.py',
+   'PYMODULE'),
+  ('pypdf.errors',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\errors.py',
+   'PYMODULE'),
+  ('pypdf.constants',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\constants.py',
+   'PYMODULE'),
+  ('pypdf._writer',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_writer.py',
+   'PYMODULE'),
+  ('pypdf.xmp',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\xmp.py',
+   'PYMODULE'),
+  ('pypdf._protocols',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_protocols.py',
+   'PYMODULE'),
+  ('pypdf.types',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\types.py',
+   'PYMODULE'),
+  ('pypdf.generic._outline',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_outline.py',
+   'PYMODULE'),
+  ('pypdf.generic._data_structures',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_data_structures.py',
+   'PYMODULE'),
+  ('pypdf.generic._image_xobject',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_image_xobject.py',
+   'PYMODULE'),
+  ('pypdf.filters',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\filters.py',
+   'PYMODULE'),
+  ('pypdf._codecs._codecs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\_codecs.py',
+   'PYMODULE'),
+  ('pypdf._codecs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\__init__.py',
+   'PYMODULE'),
+  ('pypdf._codecs.zapfding',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\zapfding.py',
+   'PYMODULE'),
+  ('pypdf._codecs.symbol',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\symbol.py',
+   'PYMODULE'),
+  ('pypdf._codecs.std',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\std.py',
+   'PYMODULE'),
+  ('pypdf._codecs.pdfdoc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\pdfdoc.py',
+   'PYMODULE'),
+  ('pypdf._codecs.adobe_glyphs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\adobe_glyphs.py',
+   'PYMODULE'),
+  ('pypdf.generic._utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_utils.py',
+   'PYMODULE'),
+  ('pypdf.generic._image_inline',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_image_inline.py',
+   'PYMODULE'),
+  ('pypdf.generic._fit',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_fit.py',
+   'PYMODULE'),
+  ('pypdf.generic._base',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_base.py',
+   'PYMODULE'),
+  ('pypdf.generic._appearance_stream',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_appearance_stream.py',
+   'PYMODULE'),
+  ('pypdf._font',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_font.py',
+   'PYMODULE'),
+  ('fontTools.ttLib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.ttCollection',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\ttCollection.py',
+   'PYMODULE'),
+  ('fontTools.misc.xmlWriter',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\xmlWriter.py',
+   'PYMODULE'),
+  ('fontTools.misc.textTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\textTools.py',
+   'PYMODULE'),
+  ('fontTools.misc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.misc.xmlReader',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\xmlReader.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.DefaultTable',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\DefaultTable.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._v_m_t_x',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_v_m_t_x.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._v_h_e_a',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_v_h_e_a.py',
+   'PYMODULE'),
+  ('fontTools.misc.fixedTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\fixedTools.py',
+   'PYMODULE'),
+  ('fontTools.misc.roundTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\roundTools.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._t_r_a_k',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_t_r_a_k.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._s_b_i_x',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_s_b_i_x.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.sbixStrike',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\sbixStrike.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.sbixGlyph',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\sbixGlyph.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._p_r_o_p',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_p_r_o_p.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.otBase',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\otBase.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._p_r_e_p',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_p_r_e_p.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._o_p_b_d',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_o_p_b_d.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._m_o_r_x',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_m_o_r_x.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._m_o_r_t',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_m_o_r_t.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._m_e_t_a',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_m_e_t_a.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._m_a_x_p',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_m_a_x_p.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._l_t_a_g',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_l_t_a_g.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._l_o_c_a',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_l_o_c_a.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._l_c_a_r',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_l_c_a_r.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._k_e_r_n',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_k_e_r_n.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._h_h_e_a',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_h_h_e_a.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._h_d_m_x',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_h_d_m_x.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._g_v_a_r',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_g_v_a_r.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.TupleVariation',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\TupleVariation.py',
+   'PYMODULE'),
+  ('fontTools.varLib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.ttx',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttx.py',
+   'PYMODULE'),
+  ('fontTools.misc.cliTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\cliTools.py',
+   'PYMODULE'),
+  ('fontTools.misc.timeTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\timeTools.py',
+   'PYMODULE'),
+  ('fontTools.unicode',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\unicode.py',
+   'PYMODULE'),
+  ('fontTools.misc.macCreatorType',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\macCreatorType.py',
+   'PYMODULE'),
+  ('fontTools.cffLib.CFFToCFF2',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\cffLib\\CFFToCFF2.py',
+   'PYMODULE'),
+  ('fontTools.cffLib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\cffLib\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.cffLib.transforms',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\cffLib\\transforms.py',
+   'PYMODULE'),
+  ('fontTools.cffLib.CFF2ToCFF',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\cffLib\\CFF2ToCFF.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.removeOverlaps',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\removeOverlaps.py',
+   'PYMODULE'),
+  ('fontTools.pens.t2CharStringPen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\t2CharStringPen.py',
+   'PYMODULE'),
+  ('fontTools.pens',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.pens.basePen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\basePen.py',
+   'PYMODULE'),
+  ('fontTools.pens.reverseContourPen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\reverseContourPen.py',
+   'PYMODULE'),
+  ('fontTools.pens.filterPen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\filterPen.py',
+   'PYMODULE'),
+  ('fontTools.pens.recordingPen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\recordingPen.py',
+   'PYMODULE'),
+  ('fontTools.pens.pointPen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\pointPen.py',
+   'PYMODULE'),
+  ('fontTools.misc.enumTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\enumTools.py',
+   'PYMODULE'),
+  ('fontTools.pens.transformPen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\transformPen.py',
+   'PYMODULE'),
+  ('fontTools.misc.transform',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\transform.py',
+   'PYMODULE'),
+  ('fontTools.pens.ttGlyphPen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\ttGlyphPen.py',
+   'PYMODULE'),
+  ('fontTools.cffLib.width',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\cffLib\\width.py',
+   'PYMODULE'),
+  ('fontTools.cffLib.specializer',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\cffLib\\specializer.py',
+   'PYMODULE'),
+  ('fontTools.misc.arrayTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\arrayTools.py',
+   'PYMODULE'),
+  ('fontTools.varLib.cff',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\cff.py',
+   'PYMODULE'),
+  ('fontTools.otlLib.builder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\otlLib\\builder.py',
+   'PYMODULE'),
+  ('fontTools.otlLib.error',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\otlLib\\error.py',
+   'PYMODULE'),
+  ('fontTools.otlLib.optimize.gpos',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\otlLib\\optimize\\gpos.py',
+   'PYMODULE'),
+  ('fontTools.otlLib.optimize',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\otlLib\\optimize\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.misc.intTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\intTools.py',
+   'PYMODULE'),
+  ('fontTools.otlLib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\otlLib\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.feaLib.ast',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\feaLib\\ast.py',
+   'PYMODULE'),
+  ('fontTools.feaLib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\feaLib\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.misc.encodingTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\encodingTools.py',
+   'PYMODULE'),
+  ('fontTools.encodings.codecs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\encodings\\codecs.py',
+   'PYMODULE'),
+  ('fontTools.encodings',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\encodings\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.feaLib.location',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\feaLib\\location.py',
+   'PYMODULE'),
+  ('fontTools.feaLib.error',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\feaLib\\error.py',
+   'PYMODULE'),
+  ('fontTools.varLib.errors',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\errors.py',
+   'PYMODULE'),
+  ('fontTools.colorLib.unbuilder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\colorLib\\unbuilder.py',
+   'PYMODULE'),
+  ('fontTools.colorLib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\colorLib\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.colorLib.table_builder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\colorLib\\table_builder.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.otConverters',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\otConverters.py',
+   'PYMODULE'),
+  ('fontTools.colorLib.builder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\colorLib\\builder.py',
+   'PYMODULE'),
+  ('fontTools.colorLib.geometry',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\colorLib\\geometry.py',
+   'PYMODULE'),
+  ('fontTools.colorLib.errors',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\colorLib\\errors.py',
+   'PYMODULE'),
+  ('fontTools.misc.treeTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\treeTools.py',
+   'PYMODULE'),
+  ('fontTools.varLib.stat',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\stat.py',
+   'PYMODULE'),
+  ('fontTools.designspaceLib.types',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\designspaceLib\\types.py',
+   'PYMODULE'),
+  ('fontTools.designspaceLib.split',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\designspaceLib\\split.py',
+   'PYMODULE'),
+  ('fontTools.designspaceLib.statNames',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\designspaceLib\\statNames.py',
+   'PYMODULE'),
+  ('fontTools.designspaceLib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\designspaceLib\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.varLib.featureVars',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\featureVars.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.ttVisitor',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\ttVisitor.py',
+   'PYMODULE'),
+  ('fontTools.misc.visitor',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\visitor.py',
+   'PYMODULE'),
+  ('fontTools.misc.dictTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\dictTools.py',
+   'PYMODULE'),
+  ('fontTools.varLib.mvar',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\mvar.py',
+   'PYMODULE'),
+  ('fontTools.varLib.merger',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\merger.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.otTraverse',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\otTraverse.py',
+   'PYMODULE'),
+  ('fontTools.varLib.varStore',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\varStore.py',
+   'PYMODULE'),
+  ('fontTools.varLib.models',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\models.py',
+   'PYMODULE'),
+  ('fontTools.varLib.builder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\builder.py',
+   'PYMODULE'),
+  ('fontTools.misc.vector',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\vector.py',
+   'PYMODULE'),
+  ('fontTools.misc.lazyTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\lazyTools.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._g_l_y_f',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_g_l_y_f.py',
+   'PYMODULE'),
+  ('fontTools.misc.filenames',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\filenames.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._g_c_i_d',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_g_c_i_d.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._g_a_s_p',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_g_a_s_p.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._f_v_a_r',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_f_v_a_r.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._f_p_g_m',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_f_p_g_m.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._f_e_a_t',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_f_e_a_t.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._c_v_t',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_c_v_t.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._c_v_a_r',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_c_v_a_r.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._c_m_a_p',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_c_m_a_p.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._c_i_d_g',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_c_i_d_g.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._b_s_l_n',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_b_s_l_n.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._a_v_a_r',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_a_v_a_r.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._a_n_k_r',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_a_n_k_r.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.V_V_A_R_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\V_V_A_R_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.V_O_R_G_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\V_O_R_G_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.V_D_M_X_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\V_D_M_X_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.V_A_R_C_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\V_A_R_C_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_T_F_A_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_T_F_A_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I__5',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I__5.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I__3',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I__3.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I__2',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I__2.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I__1',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I__1.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I__0',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I__0.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I_V_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I_V_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I_S_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I_S_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I_P_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I_P_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I_J_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I_J_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I_D_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I_D_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I_C_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I_C_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.T_S_I_B_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\T_S_I_B_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.asciiTable',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\asciiTable.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.S__i_l_l',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\S__i_l_l.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.S__i_l_f',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\S__i_l_f.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.S_V_G_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\S_V_G_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.S_T_A_T_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\S_T_A_T_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.M_V_A_R_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\M_V_A_R_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.M_A_T_H_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\M_A_T_H_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.L_T_S_H_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\L_T_S_H_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.J_S_T_F_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\J_S_T_F_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.H_V_A_R_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\H_V_A_R_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.G__l_o_c',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\G__l_o_c.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.G__l_a_t',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\G__l_a_t.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.G_V_A_R_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\G_V_A_R_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.G_S_U_B_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\G_S_U_B_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.G_P_O_S_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\G_P_O_S_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.G_D_E_F_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\G_D_E_F_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.F__e_a_t',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\F__e_a_t.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.grUtils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\grUtils.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.F_F_T_M_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\F_F_T_M_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.D__e_b_g',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\D__e_b_g.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.D_S_I_G_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\D_S_I_G_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.C_F_F__2',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\C_F_F__2.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.C_F_F_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\C_F_F_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.C_B_L_C_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\C_B_L_C_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.E_B_L_C_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\E_B_L_C_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.BitmapGlyphMetrics',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\BitmapGlyphMetrics.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.C_B_D_T_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\C_B_D_T_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.E_B_D_T_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\E_B_D_T_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.B_A_S_E_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\B_A_S_E_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._h_m_t_x',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_h_m_t_x.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._n_a_m_e',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_n_a_m_e.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.C_P_A_L_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\C_P_A_L_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.C_O_L_R_',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\C_O_L_R_.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.otTables',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\otTables.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.otData',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\otData.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.ttGlyphSet',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\ttGlyphSet.py',
+   'PYMODULE'),
+  ('fontTools.varLib.multiVarStore',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\multiVarStore.py',
+   'PYMODULE'),
+  ('fontTools.misc.iterTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\iterTools.py',
+   'PYMODULE'),
+  ('fontTools.feaLib.lookupDebugInfo',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\feaLib\\lookupDebugInfo.py',
+   'PYMODULE'),
+  ('fontTools.pens.boundsPen',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\pens\\boundsPen.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.ttProgram',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\ttProgram.py',
+   'PYMODULE'),
+  ('fontTools.misc.psCharStrings',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\psCharStrings.py',
+   'PYMODULE'),
+  ('fontTools.encodings.StandardEncoding',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\encodings\\StandardEncoding.py',
+   'PYMODULE'),
+  ('fontTools.misc.classifyTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\classifyTools.py',
+   'PYMODULE'),
+  ('fontTools.misc.plistlib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\plistlib\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.misc.etree',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\etree.py',
+   'PYMODULE'),
+  ('fontTools.misc.cython',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\cython.py',
+   'PYMODULE'),
+  ('fontTools.misc.sstruct',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\sstruct.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.sfnt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\sfnt.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.woff2',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\woff2.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.ttFont',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\ttFont.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.reorderGlyphs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\reorderGlyphs.py',
+   'PYMODULE'),
+  ('fontTools.agl',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\agl.py',
+   'PYMODULE'),
+  ('fontTools.misc.configTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\configTools.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.macUtils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\macUtils.py',
+   'PYMODULE'),
+  ('fontTools.misc.macRes',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\macRes.py',
+   'PYMODULE'),
+  ('fontTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.misc.loggingTools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\loggingTools.py',
+   'PYMODULE'),
+  ('timeit',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\timeit.py',
+   'PYMODULE'),
+  ('fontTools.config',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\config\\__init__.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables.O_S_2f_2',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\O_S_2f_2.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._p_o_s_t',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_p_o_s_t.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.standardGlyphOrder',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\standardGlyphOrder.py',
+   'PYMODULE'),
+  ('fontTools.ttLib.tables._h_e_a_d',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\ttLib\\tables\\_h_e_a_d.py',
+   'PYMODULE'),
+  ('pypdf._cmap',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_cmap.py',
+   'PYMODULE'),
+  ('pypdf._codecs.core_font_metrics',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\core_font_metrics.py',
+   'PYMODULE'),
+  ('pypdf.generic',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\__init__.py',
+   'PYMODULE'),
+  ('pypdf.generic._viewerpref',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_viewerpref.py',
+   'PYMODULE'),
+  ('pypdf.generic._rectangle',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_rectangle.py',
+   'PYMODULE'),
+  ('pypdf.generic._link',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_link.py',
+   'PYMODULE'),
+  ('pypdf.generic._files',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_files.py',
+   'PYMODULE'),
+  ('pypdf._utils',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_utils.py',
+   'PYMODULE'),
+  ('pypdf._page_labels',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_page_labels.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('pypdf._version',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_version.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\__init__.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._layout_mode',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\__init__.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._layout_mode._fixed_width_page',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\_fixed_width_page.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._layout_mode._text_state_params',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\_text_state_params.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._layout_mode._text_state_manager',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\_text_state_manager.py',
+   'PYMODULE'),
+  ('pypdf._reader',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_reader.py',
+   'PYMODULE'),
+  ('pypdf._page',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_page.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._text_extractor',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_text_extractor.py',
+   'PYMODULE'),
+  ('pypdf._encryption',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_encryption.py',
+   'PYMODULE'),
+  ('pypdf._doc_common',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_doc_common.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\__init__.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers._fallback',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\_fallback.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers._pycryptodome',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\_pycryptodome.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers._cryptography',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\_cryptography.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers._base',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\_base.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE')],
+ [('python312.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll',
+   'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-4bb64bb73b19ae7523581172b5c4a821.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-4bb64bb73b19ae7523581172b5c4a821.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libEGL.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_webp.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_avif.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\cd.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\cd.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32pdh.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\_common.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_imaging.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtGui.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5\\sip.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\sip.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtCore.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtWidgets.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('fontTools\\varLib\\iup.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\varLib\\iup.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('fontTools\\misc\\bezierTools.cp312-win_amd64.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\fontTools\\misc\\bezierTools.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes312.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pywin32_system32\\pywintypes312.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\python3.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'BINARY')],
+ [],
+ [],
+ [('yonder_logo.png',
+   'E:\\Project\\py\\statement_generator\\yonder_logo.png',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_he.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_en.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_es.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_de.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_it.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_da.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\INSTALLER',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\entry_points.txt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\entry_points.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\METADATA',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\RECORD',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\WHEEL',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\REQUESTED',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\REQUESTED',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\DELVEWHEEL',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy-2.4.3.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('base_library.zip',
+   'E:\\Project\\py\\statement_generator\\build\\Yonder账单生成器\\base_library.zip',
+   'DATA')],
+ [('posixpath',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('sre_compile',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sre_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\types.py',
+   'PYMODULE'),
+  ('sre_constants',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sre_constants.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\operator.py',
+   'PYMODULE'),
+  ('keyword',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sre_parse.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\abc.py',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\codecs.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\functools.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\enum.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\locale.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('collections.abc',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\collections\\abc.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('re._parser',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\re\\_parser.py',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('encodings.zlib_codec',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\zlib_codec.py',
+   'PYMODULE'),
+  ('encodings.uu_codec',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\uu_codec.py',
+   'PYMODULE'),
+  ('encodings.utf_8_sig',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\utf_8_sig.py',
+   'PYMODULE'),
+  ('encodings.utf_8',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\utf_8.py',
+   'PYMODULE'),
+  ('encodings.utf_7',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\utf_7.py',
+   'PYMODULE'),
+  ('encodings.utf_32_le',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\utf_32_le.py',
+   'PYMODULE'),
+  ('encodings.utf_32_be',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\utf_32_be.py',
+   'PYMODULE'),
+  ('encodings.utf_32',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\utf_32.py',
+   'PYMODULE'),
+  ('encodings.utf_16_le',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\utf_16_le.py',
+   'PYMODULE'),
+  ('encodings.utf_16_be',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\utf_16_be.py',
+   'PYMODULE'),
+  ('encodings.utf_16',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\utf_16.py',
+   'PYMODULE'),
+  ('encodings.unicode_escape',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.undefined',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\undefined.py',
+   'PYMODULE'),
+  ('encodings.tis_620',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\tis_620.py',
+   'PYMODULE'),
+  ('encodings.shift_jisx0213',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\shift_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.shift_jis_2004',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\shift_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.shift_jis',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\shift_jis.py',
+   'PYMODULE'),
+  ('encodings.rot_13',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\rot_13.py',
+   'PYMODULE'),
+  ('encodings.raw_unicode_escape',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\raw_unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.quopri_codec',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\quopri_codec.py',
+   'PYMODULE'),
+  ('encodings.punycode',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\punycode.py',
+   'PYMODULE'),
+  ('encodings.ptcp154',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\ptcp154.py',
+   'PYMODULE'),
+  ('encodings.palmos',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\palmos.py',
+   'PYMODULE'),
+  ('encodings.oem',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\oem.py',
+   'PYMODULE'),
+  ('encodings.mbcs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mbcs.py',
+   'PYMODULE'),
+  ('encodings.mac_turkish',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_turkish.py',
+   'PYMODULE'),
+  ('encodings.mac_romanian',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_romanian.py',
+   'PYMODULE'),
+  ('encodings.mac_roman',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_roman.py',
+   'PYMODULE'),
+  ('encodings.mac_latin2',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_latin2.py',
+   'PYMODULE'),
+  ('encodings.mac_iceland',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_iceland.py',
+   'PYMODULE'),
+  ('encodings.mac_greek',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_greek.py',
+   'PYMODULE'),
+  ('encodings.mac_farsi',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_farsi.py',
+   'PYMODULE'),
+  ('encodings.mac_cyrillic',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_cyrillic.py',
+   'PYMODULE'),
+  ('encodings.mac_croatian',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_croatian.py',
+   'PYMODULE'),
+  ('encodings.mac_arabic',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\mac_arabic.py',
+   'PYMODULE'),
+  ('encodings.latin_1',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\latin_1.py',
+   'PYMODULE'),
+  ('encodings.kz1048',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\kz1048.py',
+   'PYMODULE'),
+  ('encodings.koi8_u',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\koi8_u.py',
+   'PYMODULE'),
+  ('encodings.koi8_t',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\koi8_t.py',
+   'PYMODULE'),
+  ('encodings.koi8_r',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\koi8_r.py',
+   'PYMODULE'),
+  ('encodings.johab',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\johab.py',
+   'PYMODULE'),
+  ('encodings.iso8859_9',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_9.py',
+   'PYMODULE'),
+  ('encodings.iso8859_8',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_8.py',
+   'PYMODULE'),
+  ('encodings.iso8859_7',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_7.py',
+   'PYMODULE'),
+  ('encodings.iso8859_6',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_6.py',
+   'PYMODULE'),
+  ('encodings.iso8859_5',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_5.py',
+   'PYMODULE'),
+  ('encodings.iso8859_4',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_4.py',
+   'PYMODULE'),
+  ('encodings.iso8859_3',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_3.py',
+   'PYMODULE'),
+  ('encodings.iso8859_2',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_2.py',
+   'PYMODULE'),
+  ('encodings.iso8859_16',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_16.py',
+   'PYMODULE'),
+  ('encodings.iso8859_15',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_15.py',
+   'PYMODULE'),
+  ('encodings.iso8859_14',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_14.py',
+   'PYMODULE'),
+  ('encodings.iso8859_13',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_13.py',
+   'PYMODULE'),
+  ('encodings.iso8859_11',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_11.py',
+   'PYMODULE'),
+  ('encodings.iso8859_10',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_10.py',
+   'PYMODULE'),
+  ('encodings.iso8859_1',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso8859_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_kr',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso2022_kr.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_ext',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso2022_jp_ext.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_3',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso2022_jp_3.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2004',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso2022_jp_2004.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso2022_jp_2.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_1',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso2022_jp_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\iso2022_jp.py',
+   'PYMODULE'),
+  ('encodings.idna',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\idna.py',
+   'PYMODULE'),
+  ('encodings.hz',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\hz.py',
+   'PYMODULE'),
+  ('encodings.hp_roman8',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\hp_roman8.py',
+   'PYMODULE'),
+  ('encodings.hex_codec',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\hex_codec.py',
+   'PYMODULE'),
+  ('encodings.gbk',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\gbk.py',
+   'PYMODULE'),
+  ('encodings.gb2312',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\gb2312.py',
+   'PYMODULE'),
+  ('encodings.gb18030',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\gb18030.py',
+   'PYMODULE'),
+  ('encodings.euc_kr',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\euc_kr.py',
+   'PYMODULE'),
+  ('encodings.euc_jp',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\euc_jp.py',
+   'PYMODULE'),
+  ('encodings.euc_jisx0213',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\euc_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.euc_jis_2004',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\euc_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.cp950',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp950.py',
+   'PYMODULE'),
+  ('encodings.cp949',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp949.py',
+   'PYMODULE'),
+  ('encodings.cp932',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp932.py',
+   'PYMODULE'),
+  ('encodings.cp875',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp875.py',
+   'PYMODULE'),
+  ('encodings.cp874',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp874.py',
+   'PYMODULE'),
+  ('encodings.cp869',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp869.py',
+   'PYMODULE'),
+  ('encodings.cp866',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp866.py',
+   'PYMODULE'),
+  ('encodings.cp865',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp865.py',
+   'PYMODULE'),
+  ('encodings.cp864',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp864.py',
+   'PYMODULE'),
+  ('encodings.cp863',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp863.py',
+   'PYMODULE'),
+  ('encodings.cp862',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp862.py',
+   'PYMODULE'),
+  ('encodings.cp861',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp861.py',
+   'PYMODULE'),
+  ('encodings.cp860',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp860.py',
+   'PYMODULE'),
+  ('encodings.cp858',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp858.py',
+   'PYMODULE'),
+  ('encodings.cp857',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp857.py',
+   'PYMODULE'),
+  ('encodings.cp856',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp856.py',
+   'PYMODULE'),
+  ('encodings.cp855',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp855.py',
+   'PYMODULE'),
+  ('encodings.cp852',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp852.py',
+   'PYMODULE'),
+  ('encodings.cp850',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp850.py',
+   'PYMODULE'),
+  ('encodings.cp775',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp775.py',
+   'PYMODULE'),
+  ('encodings.cp737',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp737.py',
+   'PYMODULE'),
+  ('encodings.cp720',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp720.py',
+   'PYMODULE'),
+  ('encodings.cp500',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp500.py',
+   'PYMODULE'),
+  ('encodings.cp437',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp437.py',
+   'PYMODULE'),
+  ('encodings.cp424',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp424.py',
+   'PYMODULE'),
+  ('encodings.cp273',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp273.py',
+   'PYMODULE'),
+  ('encodings.cp1258',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1258.py',
+   'PYMODULE'),
+  ('encodings.cp1257',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1257.py',
+   'PYMODULE'),
+  ('encodings.cp1256',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1256.py',
+   'PYMODULE'),
+  ('encodings.cp1255',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1255.py',
+   'PYMODULE'),
+  ('encodings.cp1254',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1254.py',
+   'PYMODULE'),
+  ('encodings.cp1253',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1253.py',
+   'PYMODULE'),
+  ('encodings.cp1252',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1252.py',
+   'PYMODULE'),
+  ('encodings.cp1251',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1251.py',
+   'PYMODULE'),
+  ('encodings.cp1250',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1250.py',
+   'PYMODULE'),
+  ('encodings.cp1140',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1140.py',
+   'PYMODULE'),
+  ('encodings.cp1125',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1125.py',
+   'PYMODULE'),
+  ('encodings.cp1026',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1026.py',
+   'PYMODULE'),
+  ('encodings.cp1006',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp1006.py',
+   'PYMODULE'),
+  ('encodings.cp037',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\cp037.py',
+   'PYMODULE'),
+  ('encodings.charmap',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\charmap.py',
+   'PYMODULE'),
+  ('encodings.bz2_codec',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\bz2_codec.py',
+   'PYMODULE'),
+  ('encodings.big5hkscs',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\big5hkscs.py',
+   'PYMODULE'),
+  ('encodings.big5',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\big5.py',
+   'PYMODULE'),
+  ('encodings.base64_codec',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\base64_codec.py',
+   'PYMODULE'),
+  ('encodings.ascii',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\ascii.py',
+   'PYMODULE'),
+  ('encodings.aliases',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\aliases.py',
+   'PYMODULE'),
+  ('encodings',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\encodings\\__init__.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\linecache.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\io.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\traceback.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\warnings.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\This '
+   'PC\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\os.py',
+   'PYMODULE')])
